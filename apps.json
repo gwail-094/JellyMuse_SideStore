@@ -4,7 +4,7 @@
   "apps": [
     {
       "name": "JellyMuse",
-      "bundleIdentifier": "com.gwail.app",
+      "bundleIdentifier": "com.as.JellyfinMiniPlayer.app",
       "developerName": "Gwail_094",
       "localizedDescription": "Jellyfin Music Client that mimics Apple Music",
       "iconURL": "https://raw.githubusercontent.com/gwail-094/JellyMuse_SideStore/main/icon.png",
