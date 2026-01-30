@@ -1,0 +1,23 @@
+{
+  "name": "JellyMuse",
+  "identifier": "com.gwail094.repo",
+  "apps": [
+    {
+      "name": "JellyMuse",
+      "bundleIdentifier": "com.gwail.app",
+      "developerName": "Gwail_094",
+      "localizedDescription": "Jellyfin Music Client that mimics Apple Music",
+      "iconURL": "https://raw.githubusercontent.com/gwail-094/JellyMuse_SideStore/main/icon.png",
+      "tintColor": "#007AFF",
+      "versions": [
+        {
+          "version": "0.8.16",
+          "date": "2026-01-30",
+          "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.8.16/Jellymuse_0.8.16.ipa",
+          "size": 24300000,
+          "localizedDescription": "Pre-Release"
+        }
+      ]
+    }
+  ]
+}
