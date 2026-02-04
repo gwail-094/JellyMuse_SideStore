@@ -11,11 +11,11 @@
       "tintColor": "#007AFF",
       "versions": [
         {
-          "version": "0.8.16",
-          "date": "2026-01-30",
+          "version": "0.8.18",
+          "date": "2026-02-04",
           "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.8.18/JellyMuse_0.8.18.ipa",
           "size": 24300000,
-          "localizedDescription": "Pre-Release"
+          "localizedDescription": "Pre-Release: Fixed MP3 offline/local playback (Downloads)"
         }
       ]
     }
