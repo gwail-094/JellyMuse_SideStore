@@ -11,11 +11,11 @@
       "tintColor": "#007AFF",
       "versions": [
         {
-          "version": "0.8.32",
-          "date": "2026-02-12",
-          "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.8.32/JellyMuse_0.8.32.ipa",
+          "version": "0.8.42",
+          "date": "2026-02-13",
+          "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.8.42/JellyMuse_0.8.42.ipa",
           "size": 24300000,
-          "localizedDescription": "Release of version 0.8.32 of JellyMuse."
+          "localizedDescription": "Release of version 0.8.42 of JellyMuse."
         }
       ]
     }
