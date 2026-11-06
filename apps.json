@@ -11,11 +11,11 @@
       "tintColor": "#007AFF",
       "versions": [
         {
-          "version": "0.18.38",
+          "version": "0.18.40",
           "date": "2026-11-06",
-          "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.18.38/JM_0.18.38.ipa",
+          "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.18.40/JM_0.18.40.ipa",
           "size": 24300000,
-          "localizedDescription": "Release of version 0.18.38 of JellyMuse. More info on GitHub."
+          "localizedDescription": "Lyrics rebuilt for smoother scrolling and line changes.\n\n• New lyrics engine, now the default for both plain and word-synced lyrics\n• Karaoke wipe, duets, background vocals, intro/interlude dots and stepped blur, matching Apple Music\n• Pronunciation under each word (Japanese, Chinese, Korean) and translations under each line, including for background vocals\n• Arabic and Hebrew lyrics drawn right to left, with a left-to-right pronunciation row\n• Tap highlight now fits each line with its translation and pronunciation\n• Fixes: wipe after seeking back, last line staying lit, early-lit pronunciation letters, long-note swell on mixed-language lines, and tapping to show the controls no longer jumps to a lyric"
         }
       ]
     }
