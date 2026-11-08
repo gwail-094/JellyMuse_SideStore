@@ -11,11 +11,11 @@
       "tintColor": "#007AFF",
       "versions": [
         {
-          "version": "0.18.41",
-          "date": "2026-11-07",
-          "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.18.41/JM_0.18.41.ipa",
+          "version": "0.18.42",
+          "date": "2026-11-08",
+          "downloadURL": "https://github.com/gwail-094/JellyMuse_SideStore/releases/download/V.0.18.42/JM_0.18.42.ipa",
           "size": 24300000,
-          "localizedDescription": "Lyrics rebuilt for smoother scrolling and line changes, plus faster song start-up.\n\n• New lyrics engine, now the default for both plain and word-synced lyrics\n• Karaoke wipe, duets, background vocals, intro/interlude dots and stepped blur, matching Apple Music\n• Lines hand over as the previous one ends, so quick lines get their full wipe; the wipe's soft edge now spills slightly into the next word, and lines ease back to idle\n• Pronunciation under each word (Japanese, Chinese, Korean) and translations under each line, including for background vocals\n• Arabic and Hebrew lyrics drawn right to left, with a left-to-right pronunciation row\n• Korean words stay together when a line wraps\n• Tap highlight now fits each line with its translation and pronunciation\n• Songs start faster: the audio session, the server connection and the Atmos check are now prepared in parallel the moment you tap a song, and the next song no longer competes with the one you're hearing\n• Fixes: wipe after seeking back, last lines staying lit to the end of a song, early-lit pronunciation letters, long-note swell on mixed-language lines, translations jumping in size, pronunciation ghosting on background vocals, and tapping to show the controls no longer jumps to a lyric"
+          "localizedDescription": "Apple Music-style sliders, matching buttons and text, and Sing improvements.\n\n• Progress and volume bars rebuilt to follow Apple Music: the same heights and springs, a fill that always stays attached to the bar, and a vertical drag away to cancel a scrub\n• Volume bar stretches at both ends like Apple Music, its fill glides a little after a flick, and the stretch stays level with the speaker icons\n• Slider haptics removed\n• Artist name and the lyrics, AirPlay and queue buttons now share the progress bar's blend and brightness; lyrics and queue use the same slider look as the main view\n• Sing is now offered for Atmos songs that have a stereo version (streamed, or downloaded with the regular file); only an Atmos-only download hides it\n• Sing turns itself back on after a song without lyrics, when the next song with lyrics plays\n• The mesh background eases out as soon as you leave lyrics for the main view, instead of waiting for the animation to finish\n• Fixes: the Favorite button in the ellipsis menu now shows whether the song is favorited"
         }
       ]
     }
